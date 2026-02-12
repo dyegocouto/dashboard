@@ -135,10 +135,22 @@ body {
   min-height: 200px;
   position: relative;
   box-shadow: 6px 10px 5px 0px rgba(0, 0, 0, 0.05);
+  transition: transform 0.1s ease;
+}
+
+.project__card:hover {
+  transform: scale(1.02);
+  cursor: pointer;
+}
+
+.project__title {
+  font-size: clamp(18px, 3vw, 24px);
 }
 
 .project__desc {
   color: var(--text-secondary);
+  font-size: clamp(16px, 3vw, 18px);
+  max-width: 55ch;
 }
 
 .project__actions {
