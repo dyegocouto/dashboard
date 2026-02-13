@@ -9,3 +9,5 @@ A lightweight, responsive dashboard built entirely with vanilla HTML and CSS. Th
 - Responsive Design: Adapts seamlessly to all screen sizes, from mobile to desktop.
 
 - Lightweight & Efficient: Minimal codebase for fast loading and easy customization.
+
+![](img/showcase.png)
