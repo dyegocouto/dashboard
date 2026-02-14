@@ -10,4 +10,16 @@ A lightweight, responsive dashboard built entirely with vanilla HTML and CSS. Th
 
 - Lightweight & Efficient: Minimal codebase for fast loading and easy customization.
 
-![](img/showcase.png)
+## Showcase
+
+This is how the page looks on mobile:
+
+![](img/showcase-small.png)
+
+And this is how it looks on desktop:
+
+![](img/showcase-large.png)
+
+## Demo
+
+You can see a demo clicking [here](https://dyegocouto.github.io/dashboard/), or clicking the link inside the 'About' section of this repository.
